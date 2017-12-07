@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="come_ar_jogo">Começar Jogo</string>
+    <string name="digite_o_time_visitante">Digite o time visitante</string>
+    <string name="et_time_a">Digite o nome do time</string>
+    <string name="et_time_casa">Time da casa</string>
+    <string name="et_time_visitante">Time Visitante</string>
+    <string name="label_desenvolvido_por">Desenvolvido por Everton Teotonio</string>
+    <string name="label_name">Times</string>
+    <string name="lbGol">GOL</string>
+</resources>
