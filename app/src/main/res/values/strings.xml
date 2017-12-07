@@ -7,4 +7,6 @@
     <string name="et_time_visitante">Time Visitante</string>
     <string name="digite_o_time_visitante">Digite o time visitante</string>
     <string name="come_ar_jogo">Começar Jogo</string>
+    <string name="lbGol">GOL</string>
+    <string name="placar_inicial">0</string>
 </resources>
